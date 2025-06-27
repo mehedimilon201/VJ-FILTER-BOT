@@ -246,7 +246,16 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @Flixmate {file_name}
 
-<b><a href='https://t.me/flixmate2/'>Backup Channel</a></b>""" 
+<b>╭─── • ❰ KEEP SUPPORT ❱ • ────➤
+𝐌𝐀𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋🔻
+https://t.me/infinity_padangal
+
+𝐀𝐒𝐊 𝐔𝐑 𝐌𝐎𝐕𝐈𝐄𝐒 𝐇𝐄𝐑𝐄🔻
+https://t.me/+F8m_NK216hU3NzU1
+
+𝐈𝐍𝐒𝐓𝐀 🔻
+https://www.instagram.com/invites/contact/?i=yjti421dvitr&utm_content=gzimgf6
+╰─────── • ◆ • ───────➤</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
